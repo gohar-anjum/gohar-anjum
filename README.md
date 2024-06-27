@@ -1,23 +1,16 @@
-<h1 align="center">Hola, I'm Jash ! 👋</h1>
-<h3 class="string" align="center">A passionate developer from India</h3>
+<h1 align="center">Hola, I'm Gohar ! 👋</h1>
+<h3 class="string" align="center">A passionate developer from Pakistan</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JASH-PATEL-6566&label=Profile%20views&color=0e75b6&style=flat" alt="jash-patel" /> </p>
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=JASH-PATEL-6566&theme=oldie" alt="JASHPATEL" />
 
-- 🌍 I'm based in <b>India</b>
-- 📝 I am currently learning **Blockchain**
-- 🌐 Check out my digital playground at [portfolio](https://jashpatel1511.netlify.app/)
-- ✉️ You can contact me at [pateljash1511@gmail.com](mailto:pateljash1511@gmail.com)
-- 📈 Know about my experiences **[Resume](https://drive.google.com/file/d/1ZwaLMnEkvKmTqSQJNstEhvhQ50P5gsXf/view?usp=sharing)**
+- 🌍 I'm based in <b>Pakistan</b>
+- 📝 I am currently learning **Front-End**
+- ✉️ You can contact me at [goharanjum49@gmail.com](mailto:goharanjum49@gmail.com)
 - 🚀 I'm currently working on **my own project**
 - 🤝 I'm open to collaborating on <b>web development</b>
 - ⚡ I love to play football and like to listen music
 
-<!-- <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/Tobeaprogramme1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="JASHPATEL" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/jash-patel-57a7311ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="JASHPATEL" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/j_a_s_h_6566/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="JASHPATEL" height="30" width="40" /></a>
-<a href="https://redux.js.org/" target="_blank" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" height="40" width="40" alt="Redux"/></a>
+public/icons/skills/redux-colored.svg" height="40" width="40" alt="Redux"/></a>
 </p> -->
 
 <p align="left">
