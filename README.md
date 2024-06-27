@@ -8,15 +8,11 @@
 - 🤝 I'm open to collaborating on <b>web development</b>
 - ⚡ I love to play football and like to listen music
 
-public/icons/skills/redux-colored.svg" height="40" width="40" alt="Redux"/></a>
-</p> -->
-
 <p align="left">
 <h2>Social</h2>
-<a href="https://www.github.com/JASH-PATEL-6566" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676730434/ease-prof/social/github-tile_gsrozh.svg" height="40" width="40" alt=github/>
-<a href="https://www.twitter.com/jashpatel1511" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676730463/ease-prof/social/twitter-tile_wvivtr.svg" height="40" width="40" alt=twitter/>
-<a href="https://www.linkedin.com/in/jash-patel-57a7311ba" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676730564/ease-prof/social/linkedin-tile_jaz1sv.svg" height="40" width="40" alt=linkedin/>
-<a href="http://www.instagram.com/_.jash._6566" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676730747/ease-prof/social/instagram-icon_awmjo1.svg" height="40" width="40" alt=instagram/>
+<a href="https://www.github.com/gohar-anjum" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676730434/ease-prof/social/github-tile_gsrozh.svg" height="40" width="40" alt=github/>
+<a href="https://www.linkedin.com/in/gohar-anjum-55404922a" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676730564/ease-prof/social/linkedin-tile_jaz1sv.svg" height="40" width="40" alt=linkedin/>
+<a href="http://www.instagram.com/imalikgohar" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676730747/ease-prof/social/instagram-icon_awmjo1.svg" height="40" width="40" alt=instagram/>
 </p>
 
 <p align="left">
@@ -55,18 +51,6 @@ public/icons/skills/redux-colored.svg" height="40" width="40" alt="Redux"/></a>
 <!-- https://cdn.worldvectorlogo.com/logos/react-native-1.svg -->
 
 
-
-
-
-<h2>Badges</h2>
-<table align="center" border="none"> <td>
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=JASH-PATEL-6566&show_icons=true&locale=en&theme=dark" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=JASH-PATEL-6566&theme=dark" />
-</td> </table>
-<table border="none" align="center"> <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=JASH-PATEL-6566&show_icons=true&locale=en&layout=compact&theme=dark" />
-</td> </table>
-
 <h2>Support</h2>
 
-<a href="https://www.buymeacoffee.com/jashpatel6566" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/goharanjum" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
