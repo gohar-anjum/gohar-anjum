@@ -2,8 +2,8 @@
 <h3 class="string" align="center">A passionate developer from Pakistan</h3>
 
 - 🌍 I'm based in <b>Pakistan</b>
-- 📝 I am currently learning **Front-End**
-- ✉️ You can contact me at [goharanjum49@gmail.com](mailto:goharanjum49@gmail.com)
+- 📝 I am currently learning **Full-Stack**
+- ✉️ You can contact me at [contact@ideavire.com](mailto:contact@ideavire.com)
 - 🚀 I'm currently working on **my own project**
 - 🤝 I'm open to collaborating on <b>web development</b>
 - ⚡ I love to play football and like to listen music
